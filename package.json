@@ -1,0 +1,17 @@
+{
+  "name": "oib-validator.js",
+  "version": "1.0.0",
+  "description": "OIB validator for JS. OIB is national identification number used in Croatia.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "keywords": [
+    "oib",
+    "validator"
+  ],
+  "author": "Miroslav Jelaska",
+  "license": "MIT"
+}
